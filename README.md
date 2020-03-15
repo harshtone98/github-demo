@@ -1,2 +1,3 @@
 # github-demo
-A simple depository
+A simple repository
+
